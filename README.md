@@ -7,6 +7,10 @@ Hello! Currently, there are only four of us in our team who support the applicat
    1. David Dimitrov Ivanov - development, testing, configuration and management of the server and website part of the project.
    2. Yasen Vasilev Nenov - development, testing, configuration and management of the server and website part of the project.
  
+  **Game**
+   1. Adrian Rosenov Lubenov - development, testing, configuration and management of the desktop application (game) of the project.
+   2. Stanislav Krasimirov Vladimirov- development, testing, configuration and management of the desktop application (game) of the project.
+   
 # Supervisor
 
  1. **Lyudmil Lyubomirov** - Senior Teacher in Theoretical Training at Professional High School of Economics - Pernik
