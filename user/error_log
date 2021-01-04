@@ -1,0 +1,2 @@
+[21-Aug-2019 20:43:13 Europe/Sofia] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noit1/public_html/revival/core/dbconnection.php on line 127
+[21-Aug-2019 20:43:54 Europe/Sofia] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noit1/public_html/revival/core/dbconnection.php on line 127

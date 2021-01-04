@@ -1,0 +1,171 @@
+/* Download-Register */
+.register
+{
+    font-size: large;
+    color:#cdbe91;;
+    text-decoration: none;
+}
+
+/* Download-Register-Hover */
+.register:hover
+{
+    font-size: large;
+    text-decoration: none;
+    color: #00BFFF;
+}
+
+/* Map-User */
+#map
+{
+    width: 230px;
+    height: 180px;
+    background: #999;
+    margin-left: 5%;
+    color:#000000;
+}
+
+/* Spells Vertical Line*/
+#vl 
+{
+    border-left: 6px solid #00BFFF;
+    height: 540px;
+    position: absolute;
+    left: 145%;
+    margin-left: 7px;
+    top: 38px;
+    
+}  
+
+/* Heroes button-spells */
+#nav-spells
+{
+    position: absolute;
+    left: 110%;
+    margin-left: 7px;
+    top: 76px;
+}
+
+/* Media */
+    @media all and (min-width:321px) and (max-width: 480px) {
+      h1#begin
+      {
+          font-size: 40px;
+      }
+}
+
+    @media all and (min-width:321px) and (max-width: 480px) {
+      h2#xc
+      {
+          font-size: 40px;
+      }
+      
+      .img-center
+      {
+          float: left;
+          margin-left: 40px;
+      }
+      
+    
+}
+    @media all and (min-width:321px) and (max-width: 480px) {
+      div#map-desc
+      {
+          margin-left: -85px;
+          margin-top: 10px;
+          width: 100%;
+      }
+}
+
+       
+    @media all and (min-width:321px) and (max-width: 480px) {
+      div#nav-spells
+      {
+          margin-left: -270px;
+          margin-top: 477px;
+      }
+      
+}
+
+    @media all and (min-width:321px) and (max-width: 480px) {
+      div#video
+      {
+          margin-left: -150px;
+      }
+}
+    
+     @media all and (min-width:321px) and (max-width: 480px) {
+      div#map
+      {
+          margin-right: 3px;
+      }
+}
+
+
+/* End Media */
+
+/* Default Description */
+.desc{
+    color:#F5F5F5;
+  font-size: 110%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.desc-color{
+    color:#F5F5F5;
+  font-size: 115%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* User-description */
+.description-user
+{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 18px;
+}
+
+
+/* Navbar User-Drwopdown */
+#navbar-dropdown{
+	        margin-top: -2px;
+	    }
+	    
+/* Jssor Slider */
+
+.jssorl-009-spin img {
+animation-name: jssorl-009-spin;
+animation-duration: 1.6s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+from { transform: rotate(0deg); }
+to { transform: rotate(360deg); }
+}
+
+
+.jssora106 {display:block;position:absolute;cursor:pointer;}
+.jssora106 .c {fill:#F5F5F5;opacity:.3;}
+.jssora106 .a {fill:none;stroke:#F5F5F5;stroke-width:350;stroke-miterlimit:10;}
+.jssora106:hover .c {opacity:.5;}
+.jssora106:hover .a {opacity:.8;}
+.jssora106.jssora106dn .c {opacity:.2;}
+.jssora106.jssora106dn .a {opacity:1;}
+.jssora106.jssora106ds {opacity:.3;pointer-events:none;}
+
+
+.jssort101 .p {position: absolute;top:0;left:0;box-sizing:border-box;border:2px solid #F5F5F5;}
+.jssort101 .p .cv {position:relative;top:0;left:0;width:100%;height:100%;border:2px solid #F5F5F5;box-sizing:border-box;z-index:1;}
+.jssort101 .a {fill:none;stroke:#F5F5F5;stroke-width:400;stroke-miterlimit:10;visibility:hidden;}
+.jssort101 .p:hover .cv, .jssort101 .p.pdn .cv {border: 2px solid #F5F5F5;border-color:transparent;}
+.jssort101 .p:hover{padding:2px;}
+.jssort101 .p:hover .cv {background-color:#F5F5F5;opacity:.35;}
+.jssort101 .p:hover.pdn{padding:0;}
+.jssort101 .p:hover.pdn .cv {border:2px solid #fff;background:#F5F5F5;opacity:.35;}
+.jssort101 .pav .cv {border-color:#fff;opacity:.35;}
+.jssort101 .pav .a, .jssort101 .p:hover .a {visibility:visible;}
+.jssort101 .t {position:absolute;top:0;left:0;width:100%;height:100%;border:none;opacity:.6;}
+.jssort101 .pav .t, .jssort101 .p:hover .t{opacity:1;}
+
+
