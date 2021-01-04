@@ -1,0 +1,51 @@
+# invoke rewrite engine
+    RewriteEngine On
+	
+	ErrorDocument 404 https://revival.noit.eu/404
+	Options -Indexes
+
+# add trailing slash if missing
+	RewriteCond %{REQUEST_URI} /+[^\.]+$
+	RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+	
+#ReWrite
+
+#404 - Page
+	RewriteRule 404/$ 404.php
+	
+#Pages
+	RewriteRule about_us/$ about_us.php [NC]
+	RewriteRule contact/$ contact.php [NC]
+	RewriteRule for_project/$ for_project.php [NC]
+	RewriteRule heroes/$ heroes.php [NC]
+	RewriteRule history/$ history.php [NC]
+	RewriteRule index/$ index.php [NC]
+	RewriteRule login/$ login.php [NC]
+	RewriteRule logout/$ logout.php [NC]
+	RewriteRule about_game/$ about_game.php [NC]
+	RewriteRule news/$ news.php [NC]
+	#News
+	    RewriteRule view/$ view.php [NC]
+	#News
+	RewriteRule register/$ register.php [NC]
+	RewriteRule missions/$ missions.php [NC]
+	RewriteRule store/$ store.php [NC]
+	RewriteRule buy_now/$ buy_now.php [NC]
+	RewriteRule download/$ download.php [NC]
+	
+#User-Profile
+	RewriteRule user-profile/$ user/user-profile.php [NC]
+	RewriteRule user-settings/$ user/user-settings.php [NC]
+	RewriteRule user-character/$ user/user-character.php [NC]
+	RewriteRule user-questions/$ user/user-questions.php [NC]
+	RewriteRule user-items/$ user/user-items.php [NC]
+	
+#Admin-Profile
+    RewriteRule admin_profile/$ admin/admin_profile.php [NC]
+
+
+	
+#Heroes-Spells
+	RewriteRule Assassin/$ spells/Assassin.php [NC]
+	RewriteRule Mage/$ spells/Mage.php [NC]
+	RewriteRule Fighter/$ spells/Fighter.php [NC]

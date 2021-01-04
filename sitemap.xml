@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://revival.noit.eu/</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/index.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/news.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/store.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/store-product-1.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/heroes.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/history.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/login.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/register.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/about_us.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/for_project.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/contact.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://revival.noit.eu/forgot_pass.php</loc>
+  <lastmod>2018-01-22T21:56:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
