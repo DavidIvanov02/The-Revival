@@ -3,9 +3,9 @@
 
 Hello! Currently, there are only four of us in our team who support the application:
 
- **Website**
- 1. David Dimitrov Ivanov - development, testing, configuration and management of the server and website part of the project.
- 2. Yasen Vasilev Nenov - development, testing, configuration and management of the server and website part of the project.
+  **Website:**
+   1. David Dimitrov Ivanov - development, testing, configuration and management of the server and website part of the project.
+   2. Yasen Vasilev Nenov - development, testing, configuration and management of the server and website part of the project.
  
 # Supervisor
 
